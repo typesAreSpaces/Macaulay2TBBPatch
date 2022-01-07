@@ -1,7 +1,7 @@
 # Change NUM_PROCS if necessary
 NUM_PROCS=8
 # Change PREFIX if necessary
-PREFIX=/home/jose/haha
+PREFIX=
 INCLUDE_DIR=$(PREFIX)/usr/include
 LIB_DIR=$(PREFIX)/usr/lib
 TAR_FILE=tbb-2020_U3.tar.gz
